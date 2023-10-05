@@ -1,0 +1,201 @@
+@import url('https://fonts.googleapis.com/css2?family=Gabarito:wght@400;700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font: normal 16pt/21pt Gabarito, sans-serif;
+  background: url('hero.jpg') #110E11;
+  background-size: 100vw;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+article {
+  color: #242521;
+}
+
+h1, div.content {
+  max-width: 640px;
+  margin: 0 auto;
+}
+h1 {
+  text-align: center;
+  padding: 100px;
+  font: bold 10vw/10vw Gabarito;
+}
+h2, h3 {
+  margin: 0 0 12pt;
+  font-weight: bold;
+  font-family: Gabarito;
+}
+h2 {
+  font-size: 24pt;
+  line-height: 32pt;
+}
+h3 {
+  margin-top: 48px;
+  font-size: 16pt;
+  line-height: 21pt;
+  text-align: center;
+}
+p {
+  margin: 0 0 16pt;
+  padding: 0;
+  line-height: 1.5;
+}
+dt {
+  margin: 24pt 0 8pt;
+  font-weight: bold;
+}
+
+div.content {
+  padding: 80px 40px;
+}
+
+section:first-of-type h2 {
+  margin-top: 0;
+}
+section:nth-child(even) {
+  background: #F8F7F3;
+  color: #242521;
+}
+section:nth-child(even) a {
+  color: #242521;
+}
+section:nth-child(odd) {
+  background: #242521;
+  color: #F8F7F3;
+}
+section:nth-child(odd) a {
+  color: #F8F7F3;
+}
+
+table {
+  font-size: 14pt;
+  margin: 0 auto;
+  border-collapse: collapse;
+  border-spacing: 0;
+  text-align: center;
+}
+th {
+  white-space: nowrap;
+}
+th.pad {
+  padding: 0 10px;
+}
+th.right {
+  text-align: right;
+}
+td span {
+  visibility: hidden;
+}
+
+ul {
+  width: 100%;
+}
+li {
+  display: block;
+  list-style: none;
+}
+li img {
+  display: block;
+  height: 48px;
+}
+
+.companies .content {
+  padding-bottom: 80px;
+}
+.companies ul {
+  margin-top: 80px;
+}
+.companies li img {
+  margin: 0 auto 80px;
+}
+
+.book img {
+  margin-bottom: 40px;
+}
+.book a {
+  color: #F8F7F3;
+  text-decoration: none;
+  display: block;
+  font-size: 14pt;
+}
+
+.footer ul {
+  width: 25%;
+  columns: 2;
+  margin: 0 auto;
+}
+.footer li img {
+  height: 32px;
+  margin: 0 auto;
+}
+
+@media (min-width: 640px) {
+  div.content {
+    padding: 80px 40px;
+  }
+  .companies ul {
+    columns: 2;
+  }
+}
+@media (min-width: 650px) {
+  div.content {
+    padding: 80px 35px;
+  }
+}
+@media (min-width: 660px) {
+  div.content {
+    padding: 80px 30px;
+  }
+}
+@media (min-width: 670px) {
+  div.content {
+    padding: 80px 25px;
+  }
+  .book a {
+    columns: 2;
+  }
+}
+@media (min-width: 680px) {
+  div.content {
+    padding: 80px 20px;
+  }
+}
+@media (min-width: 690px) {
+  div.content {
+    padding: 80px 15px;
+  }
+}
+@media (min-width: 700px) {
+  div.content {
+    padding: 80px 10px;
+  }
+}
+@media (min-width: 710px) {
+  div.content {
+    padding: 80px 5px;
+  }
+}
+@media (min-width: 720px) {
+  div.content {
+    padding: 80px 0px;
+  }
+}
+
+@media (max-width: 945px) {
+  h1 {
+    font-size: 94px;
+    line-height: 94px;;
+  }
+  body {
+    background-size: 175vw;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: top center;
+  }
+}
