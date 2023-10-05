@@ -7,14 +7,14 @@
 }
 body {
   font: normal 16pt/21pt Gabarito, sans-serif;
-  background: url('hero.jpg') #110E11;
+  background: url('hero.jpg') #1F1D12;
   background-size: 100vw;
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
 
 article {
-  color: #242521;
+  color: #1F1D12;
 }
 
 h1, div.content {
@@ -59,18 +59,18 @@ section:first-of-type h2 {
   margin-top: 0;
 }
 section:nth-child(even) {
-  background: #F8F7F3;
-  color: #242521;
+  background: #F5F6F1;
+  color: #1F1D12;
 }
 section:nth-child(even) a {
-  color: #242521;
+  color: #1F1D12;
 }
 section:nth-child(odd) {
-  background: #242521;
-  color: #F8F7F3;
+  background: #1F1D12;
+  color: #F5F6F1;
 }
 section:nth-child(odd) a {
-  color: #F8F7F3;
+  color: #F5F6F1;
 }
 
 table {
@@ -119,7 +119,7 @@ li img {
   margin-bottom: 40px;
 }
 .book a {
-  color: #F8F7F3;
+  color: #F5F6F1;
   text-decoration: none;
   display: block;
   font-size: 14pt;
@@ -127,7 +127,7 @@ li img {
 
 .footer ul {
   width: 25%;
-  columns: 2;
+  columns: 1; /* should match number of icons */
   margin: 0 auto;
 }
 .footer li img {
@@ -187,15 +187,19 @@ li img {
   }
 }
 
+@media (max-width: 874px) {
+  /* image is 1904 x 640, so at 294 height the width is 874 */
+  body {
+    background-size: auto 294px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 30% top;
+  }
+}
+
 @media (max-width: 945px) {
   h1 {
     font-size: 94px;
     line-height: 94px;
-  }
-  body {
-    background-size: 175vw;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: top center;
   }
 }
