@@ -50,6 +50,9 @@ dt {
   margin: 24pt 0 8pt;
   font-weight: bold;
 }
+dd {
+  line-height: 1.5;
+}
 
 div.content {
   padding: 80px 40px;
