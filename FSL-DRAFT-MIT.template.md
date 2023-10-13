@@ -2,9 +2,9 @@
 
 ## License Name and Abbreviation
 
-Functional Source License, version 1.0rc1, with MIT change license
+Functional Source License, version DRAFT, with MIT change license
 
-FSL-1.0rc1-MIT
+FSL-DRAFT-MIT
 
 ## Licensor (“We”)
 

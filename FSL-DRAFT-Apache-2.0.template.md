@@ -2,9 +2,9 @@
 
 ## License Name and Abbreviation
 
-Functional Source License, version 1.0rc1, with Apache 2.0 change license
+Functional Source License, version DRAFT, with Apache 2.0 change license
 
-FSL-1.0rc1-Apache-2.0
+FSL-DRAFT-Apache-2.0
 
 ## Licensor (“We”)
 
