@@ -25,12 +25,14 @@ h1 {
   text-align: center;
   padding: 100px;
   font: bold 10vw/10vw Gabarito;
-  color: red;
 }
 h2, h3 {
   margin: 0 0 12pt;
   font-weight: bold;
   font-family: Gabarito;
+}
+h2.draft {
+  color: red;
 }
 h2 {
   font-size: 24pt;
