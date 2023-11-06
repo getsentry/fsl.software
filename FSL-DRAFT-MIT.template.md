@@ -1,8 +1,8 @@
-# Functional Source License, DRAFT version, with Apache 2.0 change license
+# Functional Source License, DRAFT version, with MIT change license
 
 ## Abbreviation
 
-FSL-DRAFT-Apache-2.0
+FSL-DRAFT-MIT
 
 ## TERMS AND CONDITIONS
 
