@@ -12,6 +12,6 @@ https://twitter.com/adamhjk/status/1687113805237714944
 
 We're focused on [writing a new license](https://github.com/getsentry/loose-confederation/issues/4) (evolution of the BSL), which we want to [announce on November 17](https://github.com/getsentry/loose-confederation/issues/7). Jump in!
 
-## Then, a New Brand?
+## Then ... What?
 
-Beyond the new license, we're [brainstorming what a new brand might be](https://github.com/getsentry/loose-confederation/issues/2).
+Beyond the new license, we're [brainstorming what might be next](https://github.com/getsentry/loose-confederation/issues/5).
