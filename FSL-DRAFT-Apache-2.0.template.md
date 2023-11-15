@@ -8,7 +8,7 @@ FSL-DRAFT-Apache-2.0
 
 ### Notice
 
-Copyright <year> <licensor name>
+Copyright ${year} ${licensor name}
 
 ### Licensor (“We”)
 
