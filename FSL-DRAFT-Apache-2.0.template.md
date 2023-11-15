@@ -4,19 +4,19 @@
 
 FSL-DRAFT-Apache-2.0
 
-## TERMS AND CONDITIONS
-
-### Notice
+## Notice
 
 Copyright ${year} ${licensor name}
 
-### Licensor (“We”)
+## Terms and Conditions
+
+### Licensor ("We")
 
 The party offering the Software under these Terms and Conditions.
 
 ### The Software
 
-The “Software” is each version of the software that we make available under
+The "Software" is each version of the software that we make available under
 these Terms and Conditions, as indicated by our inclusion of these Terms and
 Conditions with the Software.
 
@@ -74,7 +74,7 @@ remove any copyright notices provided in or with the Software.
 
 ### Disclaimer
 
-THE SOFTWARE IS PROVIDED “AS IS” AND WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR
+THE SOFTWARE IS PROVIDED "AS IS" AND WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING WITHOUT LIMITATION WARRANTIES OF FITNESS FOR A PARTICULAR
 PURPOSE, MERCHANTABILITY, TITLE OR NON-INFRINGEMENT.
 
@@ -88,7 +88,7 @@ Except for displaying the License Details and identifying us as the origin of
 the Software, you have no right under these Terms and Conditions to use our
 trademarks, trade names, service marks or product names.
 
-### Change License
+## Change License
 
 On the second anniversary of the date we make the Software available, the
 Software will become available under the Apache 2.0 license. On that date, the
