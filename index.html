@@ -24,7 +24,7 @@
           <p><a href="https://github.com/getsentry/loose-confederation/issues/4">Comment on GitHub</a>.</p>
           <br><br>
           <h2>What?</h2>
-          <p>The Functional Source License (FSL) is a source-available non-compete license that converts to Apache 2.0 or MIT after two years. It is designed primarily for SaaS companies that want to make their core products <b>as Open Source as possible</b> without jeopardizing their business. FSL provides everything a developer needs to use and learn from your software.</p>
+          <p>The Functional Source License (FSL) is a permissive non-compete license that converts to Apache 2.0 or MIT after two years. It is designed for SaaS companies that value both user freedom and developer sustainability. FSL provides everything a developer needs to use and learn from your software without free-riding.</p>
         </div>
       </section>
 
@@ -62,21 +62,22 @@
           <dl>
             <dt>Why?</dt>
 
-            <dd>The Free Software movement's values (which the Open Source
-             community has generally accepted uncritically) are <a
-               href="https://blog.sentry.io/sentrys-open-source-values/">insufficient</a>:
-             they only address the rights of software users, while developer
-             rights are also worth protecting. Companies—especially SaaS
-             companies—need a simple, widely recognized license that respects
-             user freedom without jeopardizing their right to sustainably
-             develop their software.  Functional Source License (FSL) is
-             designed to meet this need.</dd>
+            <dd>Many software-as-a-service (SaaS) companies wish to make the
+              source code for their core products available under <a
+              href="https://en.wikipedia.org/wiki/Permissive_software_license">permissive</a>
+              terms without the risk of <a
+              href="https://en.wikipedia.org/wiki/Free-rider_problem">free-riding</a>.
+              A standard license for this purpose makes it easier on both producers
+              and consumers of such software.</dd>
+
+            <dt>Why not Open Source?</dt>
+            <dd>Open Source does not protect against free-riding.</dd>
 
             <dt>Why not open core?</dt>
-            <dd>Open core is not open enough.</dd>
+            <dd>Open core is not permissive enough.</dd>
 
             <dt>Why not copyleft?</dt>
-            <dd>Copyleft is too restrictive.</dd>
+            <dd>Copyleft is not permissive enough.</dd>
 
             <dt>Why not [some other alternative]?</dt>
 
@@ -89,34 +90,28 @@
 
               FSL's immediate predecessor is the <a
                 href="https://mariadb.com/bsl11/">Business Source License</a>
-              (BSL or BUSL). BUSL's time-based approach is great, but the
+              (BSL or BUSL). BSL's time-based approach is great, but the
               Additional Use Grant is a serious flaw, because it creates <a
-                  href="https://blog.adamretter.org.uk/business-source-license-adoption/#how-is-the-bsl-being-used">too
-              much variability</a>. Each implementation of the BUSL is
-              essentially a new license, so compliance departments have to
-              separately review every case, which greatly slows adoption. FSL
-              is an evolved BUSL that (we hope) has a better chance of
-              catching on.</dd>
+                  href="https://web.archive.org/web/20231106144534/https://blog.adamretter.org.uk/business-source-license-adoption/#how-is-the-bsl-being-used">too
+              much variability</a>. Each BSL implementation is essentially a
+              new license. Also, four years is too long. FSL is an evolved BSL
+              that (we hope) has a better chance of catching on.</dd>
 
             <dt>What can I do with FSL software?</dt>
 
-            <dd>In plain English, you can do anything with FSL software except
-              (for two years) use it to compete with its author. You can read
-              it, learn from it, run it internally, modify it, and propose
-              improvements back to the author. After two years it becomes Open
-              Source software under Apache 2.0 or MIT.</dd>
+            <dd>You can do anything with FSL software except compete with its
+              producer. You can read it, learn from it, run it internally, modify
+              it, and propose improvements back to the producer. After two years
+              it becomes Open Source software under Apache 2.0 or MIT.</dd>
 
             <dt>Why only Apache 2.0 and MIT?</dt>
 
-            <dd>We started with common licenses according to <a
+            <dd>We started with popular licenses according to <a
                                                                  href="https://opensource.org/licenses/?categories=popular-strong-community">OSI</a>
-              and <a href="https://choosealicense.com/">GitHub</a>. We
-              discarded the copyleft ones since that's not our jam. ISC and the
-              BSD variants don't offer enough over MIT to warrant the added
-              complexity. That leaves Apache 2.0 and MIT.</dd>
-
-            <dt>Is FSL <a href="https://opensource.org/licenses/review-process/">OSI-approved</a>?</dt>
-            <dd>Nope.</dd>
+              and <a href="https://choosealicense.com/">GitHub</a>. Copyleft
+              is not our jam. BSD and ISC don't offer anything over
+              MIT. That leaves Apache 2.0 (with its patent grant)
+              and MIT.</dd>
 
             <dt>What's with the name?</dt>
             <dd>Meh, it's functional. ¯\_(ツ)_/¯</dd>
