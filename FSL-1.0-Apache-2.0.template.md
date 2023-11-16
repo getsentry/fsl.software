@@ -1,8 +1,8 @@
-# Functional Source License, DRAFT version, with MIT change license
+# Functional Source License, 1.0 version, with Apache 2.0 change license
 
 ## Abbreviation
 
-FSL-DRAFT-MIT
+FSL-1.0-Apache-2.0
 
 ## Notice
 
@@ -91,24 +91,18 @@ trademarks, trade names, service marks or product names.
 ## Change License
 
 On the second anniversary of the date we make the Software available, the
-Software will become available under the MIT license. On that date, the Terms
-and Conditions above automatically terminate and the following terms become
-effective:
+Software will become available under the Apache 2.0 license. On that date, the
+Terms and Conditions above automatically terminate and the following terms
+become effective:
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of
-this software and associated documentation files (the "Software"), to deal in
-the Software without restriction, including without limitation the rights to
-use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
-of the Software, and to permit persons to whom the Software is furnished to do
-so, subject to the following conditions:
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use
+this file except in compliance with the License.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+You may obtain a copy of the License at
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software distributed
+under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
+CONDITIONS OF ANY KIND, either express or implied. See the License for the
+specific language governing permissions and limitations under the License.

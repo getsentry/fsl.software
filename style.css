@@ -31,9 +31,6 @@ h2, h3 {
   font-weight: bold;
   font-family: Gabarito;
 }
-h2.draft {
-  color: red;
-}
 h2 {
   font-size: 24pt;
   line-height: 32pt;
