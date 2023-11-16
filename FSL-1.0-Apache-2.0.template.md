@@ -1,4 +1,4 @@
-# Functional Source License, 1.0 version, with Apache 2.0 change license
+# Functional Source License, Version 1.0, Apache 2.0 Change License
 
 ## Abbreviation
 

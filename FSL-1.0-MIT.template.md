@@ -1,4 +1,4 @@
-# Functional Source License, 1.0 version, with MIT change license
+# Functional Source License, Version 1.0, MIT Change License
 
 ## Abbreviation
 
