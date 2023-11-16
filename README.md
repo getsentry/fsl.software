@@ -10,7 +10,7 @@ https://twitter.com/adamhjk/status/1687113805237714944
 
 ## First, a New License
 
-We're focused on [writing a new license](https://github.com/getsentry/loose-confederation/issues/4) (evolution of the BSL), which we want to [announce on November 17](https://github.com/getsentry/loose-confederation/issues/7). Jump in!
+We shipped [a new license](https://fsl.software/). 💃
 
 ## Then ... What?
 
