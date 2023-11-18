@@ -5,14 +5,14 @@
 This repo holds the source code for [fsl.software](https://fsl.software/), the
 homepage for the [Functional Source License (FSL)](https://fsl.software/). If
 you have questions or want to add your company logo, [open an
-issue](https://github.com/getsentry/loose-confederation/issues/new) or dive in
+issue](https://github.com/getsentry/fsl.software/issues/new) or dive in
 with a PR.
 
 
 ### Now What?
 
 Also in this repo we are [brainstorming what might be
-next](https://github.com/getsentry/loose-confederation/issues/5) beyond FSL.
+next](https://github.com/getsentry/fsl.software/issues/5) beyond FSL.
 Here is some context to catch you up on the backstory and where we are headed.
 
 > We want to do something about harmful free-riding by prioritizing developer
