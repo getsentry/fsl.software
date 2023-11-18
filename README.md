@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/getsentry/fsl.software/main/slice.jpg">
 
+## Welcome!
+
 This repo holds the source code for [fsl.software](https://fsl.software/), the
 homepage for the [Functional Source License (FSL)](https://fsl.software/). If
 you have questions or want to add your company logo, [open an
