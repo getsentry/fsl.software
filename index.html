@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>FSL - Functional Source License</title>
     <style>
-      @import url("./style.css");
+      @import url("./style.css?1");
     </style>
     <meta property="og:title" content="FSL" />
     <meta
@@ -204,6 +204,20 @@
               and <a href="https://choosealicense.com/">GitHub</a>: copyleft is
               not our jam, and BSD/ISC don't offer anything over MIT. That
               leaves Apache 2.0 (with its patent grant) and MIT.
+            </dd>
+
+            <dt>How exactly does the two years work?</dt>
+
+            <dd>
+
+              The two year timeframe applies to each software version that is made
+              available. Methods of making software available include pushing a
+              Git commit, publishing a package to a repository, or mailing out a
+              CD in a tin. For example, one could clone a repo, run <code>git
+              checkout `git rev-list -n 1 --before="2 years ago"
+              master`</code>, and—if <code>LICENSE.md</code> is FSL—use that version
+              under MIT or Apache 2.0.
+
             </dd>
 
             <dt>What's with the name?</dt>
