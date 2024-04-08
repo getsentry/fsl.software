@@ -108,6 +108,13 @@ li img {
   height: 48px;
 }
 
+code {
+  font: bold 12pt/14pt "Berkeley Mono", "Monocraft", monospace;
+  padding: 3pt 6pt;
+  background: black;
+  color: #008F19;
+}
+
 .companies .content {
   padding-bottom: 80px;
 }
